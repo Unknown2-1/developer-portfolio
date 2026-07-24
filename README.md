@@ -1,7 +1,5 @@
 # Danish — Hyperglass Developer Portfolio
 
-![Danish portfolio preview](public/projects/vaultshare/landing.png)
-
 Personal portfolio for **Danish**, a full-stack product builder based in Indonesia. The experience is built around a dark iOS-inspired hyperglass system: layered translucent surfaces, refraction-like gradients, ambient motion, responsive depth, and a deliberately quiet editorial rhythm.
 
 ## What changed in this edition
